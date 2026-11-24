@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="4Kly/Assets.xcassets/AppIcon.appiconset/icon_256.png" width="128" height="128" alt="4Kly Icon">
-</p>
-<h1 align="center"><strong>4K</strong>ly</h1>
+
+<h1 align="center"><strong>YouTube Video Downloader for </strong>MAC</h1>
 <p align="center">
   <strong>Free YouTube video downloader for macOS</strong><br>
   Beautiful native app. No ads. No tracking. Open source.
@@ -18,10 +16,9 @@
 ## ⬇️ Download — No Setup Required
 
 <p align="center">
-  <a href="https://github.com/PigeonDX/4KLY/releases/latest"><strong>→ Download 4Kly Free (.DMG)</strong></a><br>
+  <a href="https://github.com/shivan222/YouTube-downloader/releases/latest"><strong>→ Download 4Kly Free (.DMG)</strong></a><br>
   macOS 14+ · Zero Adware
 </p>
-
 Just download, open the DMG, drag to Applications. Done.
 
 ---
@@ -91,12 +88,6 @@ Your purchase supports independent development.
 
 > The DMG download above is easier and already notarized. Only build from source if you want to modify the code.
 
-```bash
-git clone https://github.com/PigeonDX/4KLY.git
-cd 4KLY
-open 4Kly.xcodeproj
-# Hit ⌘R in Xcode to build and run
-```
 
 Requires Xcode 15+ and macOS 14+.
 
